@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <!-- Upload banner_cozy.svg to your repository root and this will render it -->
   <img src="banner_sleek.svg" width="100%" alt="ertandev Cozy Banner" />
@@ -71,30 +69,40 @@ const developer = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/ertandev/cs-arbitrage-calculator">cs-arbitrage-calculator</a></h4>
-      <p><em>Turkish:</em> CS:GO/CS2 pazar yerleri arasındaki fiyat farklarını tarayarak kârlı arbitraj fırsatlarını hesaplayan web/algoritma aracı.</p>
-      <p><em>English:</em> Real-time CS:GO/CS2 market scanner and arbitrage calculator for item traders.</p>
-      <code>JavaScript</code> <code>Market API</code>
+      <h4>🚕 <a href="https://github.com/ertandev/Order-A-Taxi">Order-A-Taxi</a></h4>
+      <p><em>Turkish:</em> Java Swing ve MySQL tabanlı, harita entegrasyonlu ve yolculuk simülasyonlu gelişmiş taksi rezervasyon masaüstü uygulaması.</p>
+      <p><em>English:</em> A feature-rich desktop taxi booking and simulation application built with Java Swing and MySQL.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swing-UI-0078D4?style=for-the-badge&logo=java&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>🕒 <a href="https://github.com/ertandev/Game-Time-Tracker">Game-Time-Tracker</a></h4>
       <p><em>Turkish:</em> Oyun seanslarını otomatik takip eden, oyuncunun oyun alışkanlıklarını analiz etmesini sağlayan zaman yönetim aracı.</p>
       <p><em>English:</em> An automated gaming session timer and dashboard for performance metrics tracking.</p>
-      <code>JavaScript</code> <code>Analytics</code>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔮 <a href="https://github.com/ertandev/modun-hangisi">modun-hangisi</a></h4>
-      <p><em>Turkish:</em> "Hangi moddasın?" temalı, eğlenceli ve etkileşimli yerli quiz web uygulaması.</p>
-      <p><em>English:</em> A clean, micro-animated interactive mood finder web app in Turkish.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <h4>🤖 <a href="https://github.com/ertandev/Microsoft-LocalRAG">Microsoft-LocalRAG</a></h4>
+      <p><em>Turkish:</em> Yerel belgeler üzerinde semantik arama ve soru-cevap yapmayı sağlayan, Microsoft teknolojileriyle entegre çalışan Local RAG uygulaması.</p>
+      <p><em>English:</em> A local Retrieval-Augmented Generation (RAG) system integrated with Microsoft AI technologies for offline document querying.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/AI-RAG-00B4D8?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <!-- Placeholder for future project -->
       <h4>🛸 Upcoming Project / Yakında</h4>
       <p>Building something new and secret...</p>
-      <code>Loading...</code>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Loading...-lightgrey?style=for-the-badge&logo=ghost&logoColor=white" />
     </td>
   </tr>
 </table>
