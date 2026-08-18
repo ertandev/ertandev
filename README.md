@@ -13,6 +13,9 @@
     <a href="https://github.com/ertandev">
       <img src="https://img.shields.io/github/followers/ertandev?label=Followers&style=social" alt="Followers"/>
     </a>
+    <a href="https://www.linkedin.com/in/ertanyolcu">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <img src="https://img.shields.io/badge/Status-Building_things-ff007f?style=flat-square&logo=ghost" alt="Status"/>
     <img src="https://img.shields.io/badge/Vibe-Cyberpunk_Active-00f0ff?style=flat-square&logo=windowsterminal" alt="Vibe"/>
   </p>
@@ -46,7 +49,6 @@ const developer = {
 
 <div align="center">
   <!-- Core Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
