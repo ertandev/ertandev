@@ -24,28 +24,27 @@
 
 ---
 
-### 🌱 Welcome / Hoş Geldiniz!
+### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23818cf8" width="18" height="18" align="center" /> Welcome / Hoş Geldiniz!
 
+* <img src="https://api.iconify.design/lucide:globe.svg?color=%2338bdf8" width="16" height="16" align="center" /> **EN:** Hi there! I'm Ertan, a software developer based in Turkey. I enjoy building applications that are user-focused, practical, and clean. Whether it's tracking game hours, analyzing markets, or designing simple single-page apps, I love turning logic into working products.
+* <img src="https://api.iconify.design/lucide:languages.svg?color=%23f43f5e" width="16" height="16" align="center" /> **TR:** Merhaba! Ben Ertan. Türkiye'de yaşayan bir yazılım geliştiriciyim. Kullanıcı odaklı, pratik ve temiz uygulamalar geliştirmekten keyif alıyorum.
 
-* 👋 **EN:** Hi there! I'm Ertan, a software developer based in Turkey. I enjoy building applications that are user-focused, practical, and clean. Whether it's tracking game hours, analyzing markets, or designing simple single-page apps, I love turning logic into working products.
-* 🇹🇷 **TR:** Merhaba! Ben Ertan. Türkiye'de yaşayan bir yazılım geliştiriciyim. Kullanıcı odaklı, pratik ve temiz uygulamalar geliştirmekten keyif alıyorum.
 ---
 
-### ⚡ ABOUT ME / HAKKIMDA
+### <img src="https://api.iconify.design/lucide:user.svg?color=%2338bdf8" width="18" height="18" align="center" /> ABOUT ME / HAKKIMDA
 
 ```javascript
 const developer = {
   username: "ertandev",
   skills: ["Full-Stack", "Web Development", "Game Analytics"],
   philosophy: "Turn coffee and time-tracking metrics into beautiful interfaces.",
-  activeCodingHours: "Late Night 🌌",
+  activeCodingHours: "Late Night",
 };
 ```
 
-
 ---
 
-### 🛠️ TECH ORBIT / TEKNOLOJİ YÖRÜNGESİ
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23a78bfa" width="18" height="18" align="center" /> TECH ORBIT / TEKNOLOJİ YÖRÜNGESİ
 
 <div align="center">
   <!-- Core Languages & Frameworks -->
@@ -65,12 +64,12 @@ const developer = {
 
 ---
 
-### 🕹️ FEATURED RUNS / SEÇİLMİŞ PROJELER
+### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23818cf8" width="18" height="18" align="center" /> FEATURED RUNS / SEÇİLMİŞ PROJELER
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚕 <a href="https://github.com/ertandev/Order-A-Taxi">Order-A-Taxi</a></h4>
+      <h4><img src="https://api.iconify.design/lucide:car.svg?color=%23fbbf24" width="18" height="18" align="center" /> <a href="https://github.com/ertandev/Order-A-Taxi">Order-A-Taxi</a></h4>
       <p><em>Turkish:</em> Java Swing ve MySQL tabanlı, harita entegrasyonlu ve yolculuk simülasyonlu gelişmiş taksi rezervasyon masaüstü uygulaması.</p>
       <p><em>English:</em> A feature-rich desktop taxi booking and simulation application built with Java Swing and MySQL.</p>
       <br/>
@@ -79,7 +78,7 @@ const developer = {
       <img src="https://img.shields.io/badge/Swing-UI-0078D4?style=for-the-badge&logo=java&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🕒 <a href="https://github.com/ertandev/Game-Time-Tracker">Game-Time-Tracker</a></h4>
+      <h4><img src="https://api.iconify.design/lucide:timer.svg?color=%2338bdf8" width="18" height="18" align="center" /> <a href="https://github.com/ertandev/Game-Time-Tracker">Game-Time-Tracker</a></h4>
       <p><em>Turkish:</em> Oyun seanslarını otomatik takip eden, oyuncunun oyun alışkanlıklarını analiz etmesini sağlayan zaman yönetim aracı.</p>
       <p><em>English:</em> An automated gaming session timer and dashboard for performance metrics tracking.</p>
       <br/>
@@ -90,7 +89,7 @@ const developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ertandev/Microsoft-LocalRAG">Microsoft-LocalRAG</a></h4>
+      <h4><img src="https://api.iconify.design/lucide:bot.svg?color=%23818cf8" width="18" height="18" align="center" /> <a href="https://github.com/ertandev/Microsoft-LocalRAG">Microsoft-LocalRAG</a></h4>
       <p><em>Turkish:</em> Python tabanlı, SQL veritabanı üzerinde çalışan; yerel belgeler üzerinde semantik arama ve soru-cevap yapmayı sağlayan, Microsoft teknolojileriyle entegre çalışan Local RAG uygulaması.</p>
       <p><em>English:</em> A Python-based local Retrieval-Augmented Generation (RAG) system with a SQL database backend, integrated with Microsoft AI technologies for offline document querying.</p>
       <br/>
@@ -100,18 +99,20 @@ const developer = {
       <img src="https://img.shields.io/badge/AI-RAG-00B4D8?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder for future project -->
-      <h4>🛸 Upcoming Project / Yakında</h4>
-      <p>Building something new and secret...</p>
+      <h4><img src="https://api.iconify.design/lucide:sparkles.svg?color=%2334d399" width="18" height="18" align="center" /> <a href="https://github.com/ertandev/obs-survey-autofill">obs-survey-autofill</a></h4>
+      <p><em>Turkish:</em> Üniversite anketleri için gerçekçi dağılımlı, iOS Liquid Glass arayüze sahip tek tıkla otomatik doldurma eklentisi.</p>
+      <p><em>English:</em> Intelligent one-click auto-filler for university evaluation surveys with iOS Liquid Glass UI and realistic distribution.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Status-Loading...-lightgrey?style=for-the-badge&logo=ghost&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3_Glass-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 METRICS
+### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2334d399" width="18" height="18" align="center" /> METRICS
 
 <div align="center">
   <table border="0">
@@ -133,5 +134,5 @@ const developer = {
 ---
 
 <div align="center">
-  <p>💡 "The best way to predict the future is to program it."</p>
+  <p><img src="https://api.iconify.design/lucide:quote.svg?color=%2394a3b8" width="16" height="16" align="center" /> <em>"The best way to predict the future is to program it."</em></p>
 </div>
